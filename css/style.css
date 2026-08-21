@@ -1,26 +1,29 @@
 body{
     background-color: rgb(250, 232, 204);
+    
 }
 
+/* Paragrafo 1, introdução */
 #paragrafo1 {
     color:rgb(199, 94, 94);
 
   font-family: "Playfair Display", serif;
-  font-optical-sizing: auto;
+  font-size: auto;
   font-weight: <weight>;
   font-style: 30px
 }
 
-
+/* TÍTULO, começo de tudo */
 .titulo{
     color:rgb(158, 14, 14)
 }
 
+/* Paragrafo 2, desenvolvimento e conclusão */
 #paragrafo2{
     color:rgb(112, 7, 7);
     
   font-family: "Outfit", sans-serif;
-  font-optical-sizing: auto;
+  font-size: auto;
   font-weight: <weight>;
   font-style: normal;
 }
